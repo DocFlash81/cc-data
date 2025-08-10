@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>I.69W.kml</name>
+	<StyleMap id="style4526">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style4625</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style4725</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style4625">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="style4725">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Placemark>
+		<name>I.69W</name>
+		<styleUrl>#style4526</styleUrl>
+		<LineString>
+			<coordinates>
+				-99.47369638407591,27.61063805155823,0 -99.47658566530723,27.60957187194151,0 -99.48184311285075,27.60750277558642,0 -99.48613281376886,27.60623675758599,0 -99.488279665874,27.60629449485342,0 -99.49049307750172,27.60681343356841,0 -99.4969511,27.6081427,0 -99.49836730000001,27.6081427,0 -99.50016979999998,27.6078385,0 -99.51986789999999,27.6002705,0 -99.5215845,27.5998521,0 -99.52364439999999,27.5999662,0 -99.52656269999999,27.6005367,0 -99.5281506,27.60080290000001,0 -99.5373774,27.5971138,0 
+			</coordinates>
+		</LineString>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	</Placemark>
+</Document>
+</kml>
