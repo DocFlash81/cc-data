@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>I.305.kml</name>
+	<Style id="line-1267FF-5000-nodesc-highlight47">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="line-1267FF-5000-nodesc-normal47">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line-1267FF-5000-nodesc42">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line-1267FF-5000-nodesc-normal47</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line-1267FF-5000-nodesc-highlight47</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>I.305</name>
+		<styleUrl>#line-1267FF-5000-nodesc42</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-121.5641265978358,38.57541195121247,0 -121.555806356968,38.57491726010427,0 -121.5372987398607,38.5748452534075,0 -121.5346482593012,38.5750385661016,0 -121.5302227015239,38.57603776589514,0 -121.5293365140772,38.57628731904866,0 -121.5285168938167,38.57653716057403,0 -121.5272532500841,38.57682677549042,0 -121.5263015735608,38.57698461384778,0 -121.5255133818874,38.57700154902872,0 -121.5246019952165,38.57695828011582,0 -121.5235284565433,38.57674561389652,0 -121.5225356031371,38.57652130347716,0 -121.5215933913812,38.5760876590096,0 -121.5208146815231,38.57558961986845,0 -121.5199470309473,38.57478423516425,0 -121.5145309416788,38.56996322081376,0 -121.5131878221935,38.56919691215577,0 -121.5114255853463,38.5685089600594,0 -121.5091992432316,38.56784930776428,0 -121.5007764613819,38.56556790987008,0 -121.4884390199728,38.56228476875203,0 -121.478525797211,38.55955452580871,0 -121.4737414862949,38.55838880197818,0 
+			</coordinates>
+		</LineString>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	</Placemark>
+</Document>
+</kml>
