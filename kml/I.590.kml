@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Folder><name>I.590</name>
+  <Placemark>
+	<name>I.590</name>
+	<description></description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <LineString><coordinates>-77.59974,43.11032,0 -77.58241,43.10781,0 -77.57882,43.10758,0 -77.57524,43.10767,0 -77.56706,43.10811,0 -77.55815,43.10877,0 -77.55601,43.10926,0 -77.55439,43.11012,0 -77.55317,43.11124,0 -77.55242,43.11256,0 -77.55208,43.11395,0 -77.55182,43.11598,0 -77.55191,43.11745,0 -77.55249,43.11875,0 -77.55341,43.12065,0 -77.5536,43.12186,0 -77.55354,43.12338,0 -77.55268,43.14024,0 -77.5525,43.14098,0 -77.55201,43.14166,0 -77.55108,43.14237,0 -77.54997,43.14276,0 -77.54762,43.1432,0</coordinates></LineString>
+  </Placemark>
+</Folder>
+</Document></kml>

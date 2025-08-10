@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Folder><name>I.585</name>
+  <Placemark>
+	<name>I.585</name>
+	<description></description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <LineString><coordinates>-81.97039,34.99292,0 -81.95467,34.98167,0 -81.9536,34.981,0 -81.95259,34.98044,0 -81.94135,34.9747,0 -81.94063,34.97428,0 -81.94006,34.97385,0 -81.93947,34.97334,0 -81.93772,34.97176,0</coordinates></LineString>
+  </Placemark>
+</Folder>
+</Document></kml>
