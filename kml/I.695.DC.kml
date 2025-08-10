@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>I.695.DC.kml</name>
+	<Style id="line-1267FF-5000-nodesc-highlight1300">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="line-1267FF-5000-nodesc-normal1300">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line-1267FF-5000-nodesc349">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line-1267FF-5000-nodesc-normal1300</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line-1267FF-5000-nodesc-highlight1300</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>I.695.DC</name>
+		<snippet></snippet>
+		<styleUrl>#line-1267FF-5000-nodesc349</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-77.01546855299887,38.88242528952983,0 -77.01296589198373,38.88241889028543,0 -77.01213642904554,38.88235700391957,0 -77.01141851561938,38.88223709473925,0 -77.01061199907195,38.88202111153033,0 -77.00763112505336,38.88118933236883,0 -77.00682911779754,38.88100929856643,0 -77.00606293836367,38.8809290593114,0 -77.0038951343966,38.88087062426215,0 -77.00314512446803,38.88079803746734,0 -77.00238428708211,38.88063212468078,0 -76.99808866927583,38.87943134378108,0 -76.99670184886023,38.87908914218673,0 -76.99303165472926,38.87828008758511,0 -76.99198065086972,38.87797703697177,0 -76.99133437968386,38.87766403024357,0 -76.99095828843338,38.87729186247496,0 -76.99076394972739,38.87673744399766,0 -76.99076880902821,38.87609576271163,0 -76.99096959678481,38.87501502050659,0 -76.991057631972,38.87409047986907,0 -76.99082922537461,38.87323792767467,0 -76.99036987202936,38.87235142831064,0 -76.98818652360532,38.86930313318418,0 
+			</coordinates>
+		</LineString>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	</Placemark>
+</Document>
+</kml>

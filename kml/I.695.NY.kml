@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>I.695.NY.kml</name>
+	<Style id="line-1267FF-5000-nodesc-highlight1300">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="line-1267FF-5000-nodesc-normal1300">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line-1267FF-5000-nodesc349">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line-1267FF-5000-nodesc-normal1300</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line-1267FF-5000-nodesc-highlight1300</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>I.695.NY</name>
+		<snippet></snippet>
+		<styleUrl>#line-1267FF-5000-nodesc349</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-73.81180197900262,40.81982773568388,0 -73.81292674934609,40.8204738356856,0 -73.81375002924939,40.82106596855224,0 -73.81465873246391,40.82187767333866,0 -73.81541114716339,40.82276651692661,0 -73.8158954326435,40.82368836638985,0 -73.81623146412663,40.82465459155943,0 -73.81654062407178,40.82570116614255,0 -73.81680050103128,40.82638939009927,0 -73.81708096119044,40.82695930623488,0 -73.81750214477124,40.82765430554358,0 -73.8180263875752,40.82832725153538,0 -73.82426472673596,40.83565845151905,0 -73.82478371047652,40.83632641423198,0 -73.82502570833341,40.8367262033515,0 -73.82520100842939,40.83707708219971,0 -73.82541439069283,40.83767677662131,0 
+			</coordinates>
+		</LineString>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	</Placemark>
+</Document>
+</kml>
