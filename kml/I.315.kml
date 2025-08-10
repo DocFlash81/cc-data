@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Folder><name>I.315</name>
+  <Placemark>
+	<name>I.315</name>
+	<description></description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <LineString><coordinates>-111.34491826368,47.4851041274989,0 -111.343248145594,47.4853113488529,0 -111.342586623832,47.4854263505791,0 -111.341903785568,47.4856166096939,0 -111.341186714789,47.4858569469008,0 -111.328778169047,47.4900795003721,0</coordinates></LineString>
+  </Placemark>
+</Folder>
+</Document></kml>

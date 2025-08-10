@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Folder><name>I.175</name>
+  <Placemark>
+	<name>I.175</name>
+	<description></description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <LineString><coordinates>-82.6585145219098,27.7666531232866,0 -82.6571476962419,27.7662687352154,0 -82.6561565365537,27.7660855288681,0 -82.6553639210703,27.7660334660549,0 -82.6516986861515,27.7660359631571,0 -82.6490883554704,27.7659933351228,0 -82.6410786865395,27.7660410489678,0 -82.6403945007828,27.7659923227374,0 -82.6392716365532,27.7658579129018,0 -82.6384618265893,27.7658353164118,0</coordinates></LineString>
+  </Placemark>
+</Folder>
+</Document></kml>

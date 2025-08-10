@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Folder><name>I.126</name>
+  <Placemark>
+	<name>I.126</name>
+	<description></description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <LineString><coordinates>-81.10332,34.02992,0 -81.1023,34.02891,0 -81.10138,34.02792,0 -81.09472,34.02063,0 -81.09393,34.01991,0 -81.09298,34.01915,0 -81.09182,34.01843,0 -81.09053,34.01779,0 -81.07948,34.01331,0 -81.07831,34.01289,0 -81.07729,34.01267,0 -81.07632,34.01252,0 -81.07212,34.01218,0 -81.07045,34.01199,0 -81.06896,34.0117,0 -81.0573,34.0086,0 -81.05633,34.00839,0 -81.05535,34.00835,0 -81.05463,34.00844,0 -81.05354,34.0087,0 -81.05028,34.00965,0</coordinates></LineString>
+  </Placemark>
+</Folder>
+</Document></kml>

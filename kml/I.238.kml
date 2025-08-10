@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Folder><name>I.238</name>
+  <Placemark>
+	<name>I.238</name>
+	<description></description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <LineString><coordinates>-122.13763,37.69044,0 -122.13639,37.6902,0 -122.13449,37.69032,0 -122.13291,37.69056,0 -122.13093,37.69081,0 -122.12997,37.69087,0 -122.12891,37.69086,0 -122.12751,37.69076,0 -122.12654,37.69064,0 -122.12365,37.69026,0 -122.11856,37.68946,0 -122.11393,37.68871,0 -122.11244,37.68856,0 -122.11061,37.68859,0 -122.1055,37.68917,0 -122.10059,37.68972,0 -122.09579,37.69032,0 -122.09249,37.69055,0</coordinates></LineString>
+  </Placemark>
+</Folder>
+</Document></kml>
