@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>I.380.CA.kml</name>
+	<Style id="line-1267FF-5000-nodesc-highlight1300">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="line-1267FF-5000-nodesc-normal1300">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line-1267FF-5000-nodesc349">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line-1267FF-5000-nodesc-normal1300</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line-1267FF-5000-nodesc-highlight1300</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>I.380.CA</name>
+		<visibility>0</visibility>
+		<snippet></snippet>
+		<styleUrl>#line-1267FF-5000-nodesc349</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-122.4314464780431,37.62772200211268,0 -122.425174384766,37.63029354660766,0 -122.4219291997541,37.63175059708942,0 -122.4173110857469,37.63376096936035,0 -122.4157900842856,37.63415689380501,0 -122.4144109927254,37.63432338082622,0 -122.4128305298383,37.63423956943289,0 -122.4094768685758,37.6339429947993,0 -122.4080320473656,37.63402867139345,0 -122.4062898025794,37.63433165296883,0 -122.4036878127143,37.63595100535515,0 -122.4017754634999,37.63747835237373,0 -122.4007958811895,37.63824531833787,0 -122.4000714072081,37.63850668076183,0 -122.3989678660937,37.63860734682136,0 
+			</coordinates>
+		</LineString>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	</Placemark>
+</Document>
+</kml>

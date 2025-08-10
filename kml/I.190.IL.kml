@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>I.190.IL.kml</name>
+	<Style id="line-1267FF-5000-nodesc-highlight1300">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="line-1267FF-5000-nodesc-normal1300">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line-1267FF-5000-nodesc349">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line-1267FF-5000-nodesc-normal1300</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line-1267FF-5000-nodesc-highlight1300</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>I.190.IL</name>
+		<snippet></snippet>
+		<styleUrl>#line-1267FF-5000-nodesc349</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-87.89905008851812,41.98197539620185,0 -87.89683713102853,41.98189994926887,0 -87.89609309761026,41.98161014883267,0 -87.89585536458713,41.98138842030906,0 -87.89480752495278,41.98042580056889,0 -87.8926328902831,41.97851880670273,0 -87.89187093207231,41.97787307203637,0 -87.8911876902515,41.97744261323762,0 -87.89041583159342,41.97714201008721,0 -87.88938816467895,41.97700241044883,0 -87.88851374080173,41.97710114867749,0 -87.88735511242533,41.97748291666787,0 -87.88486493789024,41.97848552580451,0 -87.87979934286628,41.98062007185395,0 -87.87569207638596,41.98229719278402,0 -87.87438501740674,41.98274775200498,0 -87.87355711184648,41.98289318076022,0 -87.87266077158174,41.98302369735259,0 -87.87137790629906,41.98314494848432,0 -87.86984342733544,41.98318808429556,0 -87.8672572117284,41.98321582166201,0 -87.86322704771064,41.98331543757963,0 -87.85933543217241,41.98339128865398,0 -87.85523521281166,41.98345999386355,0 -87.85096728496278,41.98353674858819,0 -87.8472702875783,41.98365899353284,0 
+			</coordinates>
+		</LineString>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	</Placemark>
+</Document>
+</kml>

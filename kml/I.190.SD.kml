@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>I.190.SD.kml</name>
+	<Style id="line-1267FF-5000-nodesc-highlight1300">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="line-1267FF-5000-nodesc-normal1300">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line-1267FF-5000-nodesc349">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line-1267FF-5000-nodesc-normal1300</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line-1267FF-5000-nodesc-highlight1300</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>I.190.SD</name>
+		<snippet></snippet>
+		<styleUrl>#line-1267FF-5000-nodesc349</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-103.2340309636061,44.08373825743306,0 -103.2323450436253,44.08922384809888,0 -103.2322840929403,44.0895943850723,0 -103.2322231355194,44.09017795718348,0 -103.2322027383184,44.09302287014472,0 -103.2322229723922,44.09681616153187,0 -103.2322025251578,44.10031400083478,0 -103.2321820635502,44.10483870135694,0 -103.2322023563693,44.10587454804568,0 -103.2323648890712,44.10639977157108,0 -103.2325274304857,44.10660402610676,0 -103.2328525205101,44.1068374648038,0 -103.2330557036903,44.10695418395783,0 -103.2338481266333,44.10714385744264,0 -103.2342748169629,44.10710009229923,0 -103.2345795950989,44.10704173494152,0 -103.2348437318689,44.10683748207637,0 -103.2351281801622,44.10650192072893,0 -103.2351484878403,44.10623930742542,0 -103.2350468885713,44.10591833842871,0 -103.2346811526188,44.10567031834469,0 -103.2342747882762,44.1054952450154,0 
+			</coordinates>
+		</LineString>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	</Placemark>
+</Document>
+</kml>

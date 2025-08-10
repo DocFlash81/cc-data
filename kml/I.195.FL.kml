@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>I.195.FL.kml</name>
+	<Style id="line-1267FF-5000-nodesc-highlight1300">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="line-1267FF-5000-nodesc-normal1300">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line-1267FF-5000-nodesc349">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line-1267FF-5000-nodesc-normal1300</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line-1267FF-5000-nodesc-highlight1300</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>I.195.FL</name>
+		<visibility>0</visibility>
+		<snippet></snippet>
+		<styleUrl>#line-1267FF-5000-nodesc349</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-80.20599566601084,25.81246228465675,0 -80.205046572543,25.81229416356909,0 -80.20239590565718,25.81180536424473,0 -80.20141178299245,25.81167628515721,0 -80.20041527468912,25.81160156088305,0 -80.19913952635045,25.81156066813946,0 -80.19168491300003,25.81144671154702,0 -80.18996677258428,25.81146019885712,0 -80.18626742568709,25.81158925215266,0 -80.1854765931258,25.81153454234106,0 -80.18461157609524,25.81135774260697,0 -80.18270530968189,25.81090374205878,0 -80.18198894922996,25.81080918022042,0 -80.18119248384414,25.81078576925307,0 -80.17120953801516,25.81070001053341,0 -80.14434603726295,25.81044049348997,0 -80.14319114657388,25.8104909479025,0 -80.14210422057791,25.81063878318096,0 -80.14125392412276,25.81082241947077,0 -80.14056111298314,25.81102602576195,0 -80.13973267021635,25.81132063563825,0 -80.13577218192026,25.81299366139201,0 
+			</coordinates>
+		</LineString>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	</Placemark>
+</Document>
+</kml>

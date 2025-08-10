@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>I.180.NE.kml</name>
+	<Style id="line-1267FF-5000-nodesc-highlight1300">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="line-1267FF-5000-nodesc-normal1300">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line-1267FF-5000-nodesc349">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line-1267FF-5000-nodesc-normal1300</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line-1267FF-5000-nodesc-highlight1300</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>I.180.NE</name>
+		<snippet></snippet>
+		<styleUrl>#line-1267FF-5000-nodesc349</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-96.7077242568398,40.81697040012251,0 -96.70792620700415,40.81774823829985,0 -96.7086328645826,40.81924890448063,0 -96.70912201410223,40.81998784564513,0 -96.71132753152678,40.82326561567946,0 -96.7116757212176,40.82396522364974,0 -96.71188851815062,40.82455441132119,0 -96.71200832162504,40.82510735751581,0 -96.71206736462096,40.82576474616351,0 -96.71206598788429,40.82643431532569,0 -96.71194393209727,40.84836471277679,0 -96.71199187977645,40.84967385312863,0 -96.71221147873307,40.8514378183936,0 -96.71248487591454,40.8530699578293,0 -96.71297779942473,40.85491631900432,0 -96.71358043875591,40.85670472318777,0 -96.71437455206369,40.85859138051448,0 -96.71596397508858,40.86218061454113,0 -96.71718376915059,40.86499748964478,0 
+			</coordinates>
+		</LineString>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	</Placemark>
+</Document>
+</kml>

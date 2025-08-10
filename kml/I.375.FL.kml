@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>I.375.FL.kml</name>
+	<Style id="line-1267FF-5000-nodesc-highlight1300">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="line-1267FF-5000-nodesc-normal1300">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line-1267FF-5000-nodesc349">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line-1267FF-5000-nodesc-normal1300</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line-1267FF-5000-nodesc-highlight1300</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0">
+		<name>I.375.FL</name>
+		<snippet></snippet>
+		<styleUrl>#line-1267FF-5000-nodesc349</styleUrl>
+		<ExtendedData>
+			<Data name="@id">
+				<value>relation/5692607</value>
+			</Data>
+			<Data name="is_in:state">
+				<value>MI</value>
+			</Data>
+			<Data name="network">
+				<value>US:I</value>
+			</Data>
+			<Data name="ref">
+				<value>375</value>
+			</Data>
+			<Data name="route">
+				<value>road</value>
+			</Data>
+			<Data name="symbol">
+				<value>http://upload.wikimedia.org/wikipedia/commons/f/fe/I-375.svg</value>
+			</Data>
+			<Data name="type">
+				<value>route</value>
+			</Data>
+			<Data name="url">
+				<value>http://en.wikipedia.org/wiki/Interstate_375_%28Michigan%29</value>
+			</Data>
+			<Data name="stroke">
+				<value>#ff2600</value>
+			</Data>
+			<Data name="stroke-width">
+				<value>2</value>
+			</Data>
+			<Data name="stroke-opacity">
+				<value>1</value>
+			</Data>
+		</ExtendedData>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-82.6595531084195,27.77671133367559,0 -82.65781570993713,27.77665792699039,0 -82.65651280661375,27.77683588505443,0 -82.65503892116764,27.77715661901984,0 -82.65406167074421,27.77725386871918,0 -82.65340676617315,27.77726742099923,0 -82.65262523062731,27.77722947791654,0 -82.65192615181088,27.77714547625401,0 -82.64839006485568,27.77668817479939,0 -82.64761088191668,27.77665769272386,0 -82.64710757039495,27.77669932542787,0 -82.64665926982266,27.7768074109149,0 -82.64565950169705,27.7771625859747,0 -82.64516436678274,27.77730314791938,0 -82.64476024673749,27.7773540068787,0 -82.64432583287923,27.77734689548644,0 -82.64341802201025,27.77723067492657,0 -82.64227881989387,27.77700777367072,0 
+			</coordinates>
+		</LineString>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	</Placemark>
+</Document>
+</kml>

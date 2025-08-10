@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>I.110.TX.kml</name>
+	<Style id="line-1267FF-5000-nodesc-highlight1300">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="line-1267FF-5000-nodesc-normal1300">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line-1267FF-5000-nodesc349">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line-1267FF-5000-nodesc-normal1300</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line-1267FF-5000-nodesc-highlight1300</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>I.110.TX</name>
+		<snippet></snippet>
+		<styleUrl>#line-1267FF-5000-nodesc349</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-106.4513488429834,31.76441040152366,0 -106.4511677499312,31.76572746667149,0 -106.4514214440672,31.76640607153027,0 -106.4513796322311,31.76720736832701,0 -106.4512046920221,31.76778139226446,0 -106.4508256771592,31.76894452345,0 -106.4507465701321,31.76917007620403,0 -106.4506141715339,31.769472525112,0 -106.4504298591169,31.76971624632298,0 -106.4501453644745,31.76998238874695,0 -106.4497336716133,31.77024571001889,0 -106.449188538415,31.77042763344066,0 -106.4485580061544,31.77050295197248,0 -106.4476294888427,31.77053209681233,0 -106.4469445948046,31.77069904612602,0 -106.4464934718568,31.77092890854818,0 -106.4461522349118,31.7713138422042,0 -106.4458874203136,31.77180100139194,0 -106.4444989773071,31.77486961158317,0 -106.4440602084841,31.77565835140688,0 -106.4435671230012,31.77629968326889,0 -106.4424090569818,31.77751178147256,0 
+			</coordinates>
+		</LineString>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	</Placemark>
+</Document>
+</kml>
