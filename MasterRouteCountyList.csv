@@ -5848,12 +5848,12 @@
 "5847",5855,"Armstrong",2261,"PA","US.422.W",8,"WE","",0,0,"",0,"Armstrong","PA",NA,25.8,1,0
 "5848",5856,"Indiana",2290,"PA","US.422.W",9,"WE","",0,0,"",0,"Indiana","PA",NA,27.2,0,0
 "5849",5857,"Cambria",2269,"PA","US.422.W",10,"WE","",0,0,"",0,"Cambria","PA",NA,8.5,0,0
-"5850",5858,"Dauphin",2280,"PA","US.422.W",11,"WE","",0,0,"",0,"Dauphin","PA",NA,4.8,0,0
-"5851",5860,"Lebanon",2296,"PA","US.422.E",1,"WE","",0,0,"",0,"Lebanon","PA",NA,20,0,0
-"5852",5861,"Berks",2264,"PA","US.422.E",2,"WE","",0,0,"",0,"Berks","PA",NA,34.5,0,0
-"5853",5862,"Montgomery",2304,"PA","US.422.E",3,"WE","Reentry from East",0,0,"",2001,"Montgomery","PA","1.26",1.26,0,0
-"5854",5863,"Chester",2273,"PA","US.422.E",4,"WE","",0,0,"",0,"Chester","PA",NA,3.3,0,0
-"5855",5864,"Montgomery",2304,"PA","US.422.E",5,"WE","Reentry from West",0,0,"",3001,"Montgomery","PA",NA,18.54,0,0
+"5850",5858,"Dauphin",2280,"PA","US.422.E",1,"WE","",0,0,"",0,"Dauphin","PA",NA,4.8,0,0
+"5851",5860,"Lebanon",2296,"PA","US.422.E",2,"WE","",0,0,"",0,"Lebanon","PA",NA,20,0,0
+"5852",5861,"Berks",2264,"PA","US.422.E",3,"WE","",0,0,"",0,"Berks","PA",NA,34.5,0,0
+"5853",5862,"Montgomery",2304,"PA","US.422.E",4,"WE","Reentry from East",0,0,"",2001,"Montgomery","PA","1.26",1.26,0,0
+"5854",5863,"Chester",2273,"PA","US.422.E",5,"WE","",0,0,"",0,"Chester","PA",NA,3.3,0,0
+"5855",5864,"Montgomery",2304,"PA","US.422.E",6,"WE","Reentry from West",0,0,"",3001,"Montgomery","PA",NA,18.54,0,0
 "5856",5865,"Adams",1411,"MS","US.425",1,"SN","",0,0,"",0,"Adams","MS",NA,2.8,0,1
 "5857",5866,"Concordia",1136,"LA","US.425",2,"SN","",0,0,"",0,"Concordia","LA",NA,16.6,0,0
 "5858",5867,"Catahoula",1134,"LA","US.425",3,"SN","",0,0,"",0,"Catahoula","LA",NA,19.2,0,0
