@@ -1,6 +1,6 @@
 "","Route","Segments","Counties","States","MultiState","Miles","Vitals","Presidents","Most","MostCount","Type","Direction"
-"1","I.10",74,70,8,TRUE,2469.2,2,9,"Jefferson",3,"Int Main-National","WE"
-"2","I.105.CA",1,1,1,FALSE,17.8,0,0,"Los Angeles",1,"Int Spur-Local","WE"
+"1","I.10",74,70,8,TRUE,2469.29,2,9,"Jefferson",3,"Int Main-National","WE"
+"2","I.105.CA",1,1,1,FALSE,17.96,0,0,"Los Angeles",1,"Int Spur-Local","WE"
 "3","I.105.OR",1,1,1,FALSE,3.5,0,0,"Lane",1,"Int Spur-Fragment","WE"
 "4","I.11",1,1,1,FALSE,54.4,0,0,"Clark",1,"Int Main-Local","SN"
 "5","I.110.CA",1,1,1,FALSE,21.3,0,0,"Los Angeles",1,"Int Spur-Local","SN"
