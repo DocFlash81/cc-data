@@ -1,12 +1,15 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<kml xmlns="http://www.opengis.net/kml/2.2">
-<Document id="root_doc">
-<Folder><name>I.175</name>
-  <Placemark>
-	<name>I.175</name>
-	<description></description>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-      <LineString><coordinates>-82.6585145219098,27.7666531232866,0 -82.6571476962419,27.7662687352154,0 -82.6561565365537,27.7660855288681,0 -82.6553639210703,27.7660334660549,0 -82.6516986861515,27.7660359631571,0 -82.6490883554704,27.7659933351228,0 -82.6410786865395,27.7660410489678,0 -82.6403945007828,27.7659923227374,0 -82.6392716365532,27.7658579129018,0 -82.6384618265893,27.7658353164118,0</coordinates></LineString>
-  </Placemark>
-</Folder>
-</Document></kml>
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>I.175.kml</name>
+	<Placemark>
+		<name>I.175</name>
+		<LineString>
+			<coordinates>
+				-82.65401,27.7659212,0 -82.65115590000001,27.7659195,0 -82.65077239999999,27.7659433,0 -82.6493265,27.7659324,0 -82.6467408,27.7659426,0 -82.64650260000001,27.7659405,0 -82.64467689999999,27.7659357,0 -82.6444765,27.7659488,0 -82.6436056,27.7659474,0 -82.6420086,27.7659593,0 -82.6413903,27.7659654,0 -82.6409989,27.7659618,0 -82.64070049999999,27.7659424,0 -82.64040180000001,27.7659009,0 -82.6402071,27.7658626,0 -82.64000350000001,27.7658182,0 -82.6398014,27.7657867,0 -82.6395946,27.7657614,0 -82.6395148,27.7657506,0 -82.6391698,27.7657038,0 
+			</coordinates>
+		</LineString>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	</Placemark>
+</Document>
+</kml>
