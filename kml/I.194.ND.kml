@@ -2,63 +2,9 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>I.194.ND.kml</name>
-	<Style id="line-1267FF-5000-nodesc-highlight1300">
-		<LineStyle>
-			<color>ff00ff00</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<Style id="line-1267FF-5000-nodesc-normal1300">
-		<LineStyle>
-			<color>ff00ff00</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="line-1267FF-5000-nodesc349">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#line-1267FF-5000-nodesc-normal1300</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#line-1267FF-5000-nodesc-highlight1300</styleUrl>
-		</Pair>
-	</StyleMap>
 	<Placemark>
 		<name>I.194.ND</name>
-		<snippet></snippet>
-		<styleUrl>#line-1267FF-5000-nodesc349</styleUrl>
-		<ExtendedData>
-			<Data name="@id">
-				<value>relation/192462</value>
-			</Data>
-			<Data name="is_in:state">
-				<value>MI</value>
-			</Data>
-			<Data name="name">
-				<value>I 194 (MI)</value>
-			</Data>
-			<Data name="network">
-				<value>US:I</value>
-			</Data>
-			<Data name="ref">
-				<value>194</value>
-			</Data>
-			<Data name="route">
-				<value>road</value>
-			</Data>
-			<Data name="symbol">
-				<value>http://upload.wikimedia.org/wikipedia/commons/e/e6/I-194.svg</value>
-			</Data>
-			<Data name="type">
-				<value>route</value>
-			</Data>
-			<Data name="url">
-				<value>http://en.wikipedia.org/wiki/Interstate_194_%28Michigan%29</value>
-			</Data>
-		</ExtendedData>
 		<LineString>
-			<tessellate>1</tessellate>
 			<coordinates>
 				-100.8405282521033,46.82068241272743,0 -100.8336197166175,46.81369328343233,0 -100.8317896894619,46.81236010750666,0 -100.8296646056807,46.81062291751133,0 -100.8286611520119,46.80977451498525,0 -100.828129921235,46.80888573904579,0 -100.8277168225926,46.80823931213901,0 -100.8274807424789,46.80791610911548,0 
 			</coordinates>
