@@ -1,12 +1,15 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<kml xmlns="http://www.opengis.net/kml/2.2">
-<Document id="root_doc">
-<Folder><name>I.315</name>
-  <Placemark>
-	<name>I.315</name>
-	<description></description>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-      <LineString><coordinates>-111.34491826368,47.4851041274989,0 -111.343248145594,47.4853113488529,0 -111.342586623832,47.4854263505791,0 -111.341903785568,47.4856166096939,0 -111.341186714789,47.4858569469008,0 -111.328778169047,47.4900795003721,0</coordinates></LineString>
-  </Placemark>
-</Folder>
-</Document></kml>
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>I.315.kml</name>
+	<Placemark>
+		<name>I.315</name>
+		<LineString>
+			<coordinates>
+				-111.3415797,47.4856443,0 -111.3401886,47.48613580000001,0 -111.3384657,47.4867096,0 -111.3379172,47.4869023,0 -111.3370944,47.4871829,0 -111.3356091,47.4876837,0 -111.3349749,47.4879127,0 -111.3288328,47.489976,0 
+			</coordinates>
+		</LineString>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	</Placemark>
+</Document>
+</kml>
