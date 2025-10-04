@@ -2,32 +2,8 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>US.191.kml</name>
-	<Style id="line-1267FF-5000-nodesc-highlight1010">
-		<LineStyle>
-			<color>ff0000ff</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<Style id="line-1267FF-5000-nodesc-normal10100">
-		<LineStyle>
-			<color>ff0000ff</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="line-1267FF-5000-nodesc940">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#line-1267FF-5000-nodesc-normal10100</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#line-1267FF-5000-nodesc-highlight1010</styleUrl>
-		</Pair>
-	</StyleMap>
 	<Placemark>
 		<name>US.191</name>
-		<snippet></snippet>
-		<styleUrl>#line-1267FF-5000-nodesc940</styleUrl>
 		<MultiGeometry>
 			<LineString>
 				<coordinates>
